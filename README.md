@@ -93,7 +93,7 @@ natural-language queries and transcript-grounded responses.
 
 📧 **Email:** shubhamk.garg6@gmail.com
 
-💼 **LinkedIn:** [LinkedIn Profile](linkedin.com/in/shubham-k-g-6aa4b4281)
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shubham-k-g-6aa4b4281)
 
 
 ---
