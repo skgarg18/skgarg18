@@ -13,7 +13,6 @@ AI Agents, and Agentic AI workflows**.
 
 ## 🚀 About Me
 
-- 💻 Associate Software Engineer at **GlobalLogic**
 - 🤖 Interested in **Generative AI, Agentic AI, LLM applications, and RAG**
 - 🔧 Experienced in building **backend APIs and full-stack applications**
 - 🧠 Exploring **AI Agents, LangGraph, MCP, embeddings, and vector databases**
@@ -108,9 +107,8 @@ A simple web-based Tic-Tac-Toe game with:
 
 📧 **Email:** shubhamk.garg6@gmail.com
 
-💼 **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN_URL)
+💼 **LinkedIn:** [LinkedIn Profile]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/shubham-k-g-6aa4b4281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMKV3LIFHRCKCXJa2HDI5nQ%3D%3D))
 
-🐙 **GitHub:** [GitHub Profile](YOUR_GITHUB_URL)
 
 ---
 
