@@ -75,20 +75,6 @@ natural-language queries and transcript-grounded responses.
 
 ---
 
-### 🎮 Tic-Tac-Toe
-
-A simple web-based Tic-Tac-Toe game with:
-
-- 👥 Two-player mode
-- 🤖 Computer mode
-- 🏆 Winner detection
-- 🤝 Draw detection
-- 🔄 New game functionality
-
-**Tech:** HTML, CSS, JavaScript
-
----
-
 ## 📚 Currently Exploring
 
 - Advanced Backend Development
@@ -107,7 +93,7 @@ A simple web-based Tic-Tac-Toe game with:
 
 📧 **Email:** shubhamk.garg6@gmail.com
 
-💼 **LinkedIn:** [LinkedIn Profile]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/shubham-k-g-6aa4b4281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMKV3LIFHRCKCXJa2HDI5nQ%3D%3D))
+💼 **LinkedIn:** [LinkedIn Profile]([linkedin.com/in/shubham-k-g-6aa4b4281])
 
 
 ---
